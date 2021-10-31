@@ -32,7 +32,7 @@ class ViewController: UIViewController {
             count -= 5
             countLabel.text = String(count)
         }
-        if count == 25 {
+        if count == 30 {
             dispImageNo += 1
         } else if count == 0 {
             dispImageNo += 1
